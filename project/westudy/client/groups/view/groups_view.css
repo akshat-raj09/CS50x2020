@@ -1,0 +1,14 @@
+input[disabled]{
+    pointer-events: none;
+    cursor: default;
+}
+
+textarea[disabled]{
+    pointer-events: none;
+    cursor: default;
+}
+
+button[disabled]{
+    pointer-events: none;
+    cursor: default;
+}

@@ -1,0 +1,40 @@
+/* CSS declarations go here */
+#site-title {
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+    display: inline-block;
+
+    color: #000;
+}
+
+
+.navbar-link:link {
+    text-decoration: none;
+}
+
+
+#logo {
+    margin-bottom: 10px;
+
+    display: inline-block;
+
+
+    width: auto;
+    height: 50px;
+}
+
+#site-title {
+    margin-bottom: -5px;
+}
+
+
+
+
+.hidden {
+    display:none;
+}
+
+#content {
+    margin-bottom: 20px;
+}

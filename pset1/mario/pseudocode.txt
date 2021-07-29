@@ -1,0 +1,4 @@
+Take height of pyramid as input from user
+If height < 1 || height > , goto step 1
+Insert loop from 1 till height:
+    On iteration i, print i hashes and then a newline

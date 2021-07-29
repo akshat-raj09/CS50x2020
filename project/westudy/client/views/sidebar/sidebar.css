@@ -1,0 +1,9 @@
+.space {
+    pointer-events: none;
+    cursor: default;
+    color: #fff
+}
+
+.hidden {
+    display: none;
+}
