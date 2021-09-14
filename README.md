@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-This repository contains the the solutions of Harvard University's CS50x 2020 problem sets along with the final project.
+This repository contains the the solutions of Harvard University's CS50x 2020 problem sets.
 
 The Problem Sets are as follows:-
 
@@ -15,7 +15,6 @@ The Problem Sets are as follows:-
 - [Week 6: Python 🐍: Solution](https://github.com/akshat-raj09/CS50x2020/tree/master/pset6) ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/psets/6/)
 - [Week 7: SQL: Solution](https://github.com/akshat-raj09/CS50x2020/tree/master/pset7) ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/psets/7/)
 - [Week 8: Information: Solution](https://github.com/akshat-raj09/CS50x2020/tree/master/pset8) ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/tracks/web/)
-- [Final Project: WeStudy](https://github.com/akshat-raj09/CS50x2020/tree/master/Final%20Project) ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/project/)
 
 ## Run On CS50 IDE (Cloud9 VM)
 
