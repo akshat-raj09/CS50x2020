@@ -4,7 +4,7 @@
 
 This repository contains the the solutions of Harvard University's CS50x 2020 problem sets.
 
-The Problem Sets are as follows:-
+***The Problem Sets are as follows :-***
 
 - [Week 0: Scratch: Solution]() ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/psets/0/)
 - [Week 1: C: Solution](https://github.com/akshat-raj09/CS50x2020/tree/master/pset1) ---------->> [Problem Statement](https://cs50.harvard.edu/x/2020/psets/1/)
