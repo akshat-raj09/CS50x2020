@@ -34,6 +34,10 @@ The Problem Sets are as follows:-
 
 - Run each problem set as explained in the [Lectures](https://cs50.harvard.edu/x/2020/).
 
+## CS50X 2020 Certificate
+
+![CS50X2020 Certificate](https://github.com/akshat-raj09/CS50x2020/blob/master/Akshat%20CS50X2020%20Certificate.jpeg)
+
 ## Contributing
 
 Contributions are always welcome!
